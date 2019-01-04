@@ -1,3 +1,5 @@
 # Geo-API
-First Geo app
+A Simple Geo API
 This is done with Django and leaflet.
+
+
